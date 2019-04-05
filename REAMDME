@@ -1,0 +1,25 @@
+.\snapshots:
+	Snapshots of codes and key results
+
+.\code
+	\AttributeAnalysis.ipynb: 
+		include code of attribute analysis and information gain calculation, along with key result and graphs.
+	
+	\boxplot.ipynb:
+		include code of data pre-processing and box plot of wage with respect to different factors. 
+	
+	\jobrate.ipynb:
+		include code that analyzes application number and approval rate of different job titles.
+
+	\Perm11-16.ipynb:
+		include code that visualizes trend of application number and approval rate from 2011 to 2016.
+
+	\staterate.ipynb:
+		include code that analyzes application number and approval rate of different states.
+
+	\visaType.ipynb:
+		include code that analyzes application number and approval rate of different Visa Type holding by applicants while they applied to Perm. 
+
+	\SVM_model.ipynb:
+		include code that processes data, trains SVM model, and makes prediction. 
+
